@@ -94,7 +94,8 @@ class Fraction:
         elif den == 1:
             return num
         else:
-            return "{}/{}".format(num,den)
+            # return "{}/{}".format(num,den)
+            return Fraction(num,den)
     
     ## Function for Handling zeros ##
     def __zero_handler(self,num,den):
