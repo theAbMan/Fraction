@@ -49,7 +49,7 @@ print("Division:", result_division)
 We welcome contributions from the community! If you encounter any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request on GitHub.
 
 ## License
-See the [LICENSE]('./PyFraction/licence.txt') file for details.
+See the [LICENSE]('./licence.txt') file for details.
 
 ## Acknowledgments
 Inspiration for this project came from the need for a simple and efficient way to work with fractions in Python.
