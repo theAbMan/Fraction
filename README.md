@@ -53,4 +53,4 @@ See the [LICENSE](licence.txt) file for details.
 
 ## Acknowledgments
 Inspiration for this project came from the need for a simple and efficient way to work with fractions in Python.
-Special thanks to contributors who helped improve and maintain this package.
+Special thanks to contributors who helps in improving and maintaining this package.
